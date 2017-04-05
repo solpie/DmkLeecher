@@ -19,7 +19,7 @@
         "matches": [
             "*://*.hupu.com/*",
             "*://*.liangle.com/*",
-            "*://*.nga.cn/*",
+            "*://live.qq.com/*",
             "*://zhubo.kanqiu.hupu.com/*"
         ],
         "js": [
